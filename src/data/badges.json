@@ -5465,6 +5465,28 @@
             "updated_at": "2016-1-24 17:35:39",
             "category_tags": ["funfests", "unobtainable"]
         }
+        {
+            "id": 501,
+            "name": "UnderTube Badge",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/2207/UndertubeBadge.png",
+            "comment": "Completed a video or LP about Undertale",
+            "title_tag": "I'm on the Undernet!",
+            "link": "",
+            "created_at": "2016-02-18 20:34:00",
+            "updated_at": "2016-02-18 20:34:00",
+            "category_tags": ["current"]
+        }
+        {
+            "id": 502,
+            "name": "Artdog Badge",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/2210/ArtdogBadge.gif",
+            "comment": "Was chosen as artdog of the Month for fantastic Undertale Fanart!",
+            "title_tag": "bark bark",
+            "link": "",
+            "created_at": "2016-02-18 20:34:00",
+            "updated_at": "2016-02-18 20:34:00",
+            "category_tags": ["current"]
+        }
     ],
     "groups":{
         "donor": {
